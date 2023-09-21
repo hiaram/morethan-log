@@ -4,7 +4,7 @@ const CONFIG = {
     name: "hiaram",
     image: "/notion-avatar-1695297838710.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "algorithm developer",
-    bio: "I like to solve complicated things",
+    bio: "I like to solve",
     email: "",
     linkedin: "",
     github: "hiaram",
@@ -13,18 +13,18 @@ const CONFIG = {
   projects: [
     {
       name: `hiaram tech log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "https://github.com/hiaram/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
     title: "hiaram! it's techlog",
-    description: "hiaram! it's techlog",
+    description: "welcome to hiaram's techlog",
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  link: "https://hiaram.vercel.app",
+  since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
